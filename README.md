@@ -119,6 +119,7 @@ License keys are opaque lookup tokens. Validation uses a signed JWT verified cli
 | Windows | NSIS installer (`.exe`) |
 | macOS | App bundle in `.zip` (unsigned, right-click to open on first launch) |
 | Linux | AppImage + `.deb` |
+| iOS + Android | Mobile app (linked to desktop license, same key) |
 
 Download links at [turingyde.com](https://www.turingyde.com).
 
@@ -126,10 +127,9 @@ Download links at [turingyde.com](https://www.turingyde.com).
 
 ## Roadmap
 
-- [ ] Mobile app (iOS + Android, linked to existing desktop license)
-- [ ] Managed CouchDB sync service
 - [ ] Enterprise audit logs
 - [ ] Collaborative workspaces
+- [ ] Multi-agent autonomous research
 
 ---
 
